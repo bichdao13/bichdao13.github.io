@@ -8,11 +8,12 @@
     <p>Mình đang học lộ trình Frontend theo roadmap.sh</p>
     <h2>Danh sách bài thực hành:</h2>
 <ul>
-    <li><a href="M%C3%B4n%20TK%20Web/Lab%201/index.html">Bài thực hành số 1 (Lab 1)</a></li>
+    <li><a href="Lab%201/index.html">Bài thực hành số 1 (Lab 1)</a></li>
     <li><a href="Lab2/index.html">Bài thực hành số 2 (Lab 2)</a></li>
     </ul>
 </body>
 
 </html>
+
 
 
